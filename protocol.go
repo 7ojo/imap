@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/mailhog/backends/auth"
+	"github.com/7ojo/backends/auth"
 )
 
 // Command is a struct representing an SMTP command (verb + arguments)
